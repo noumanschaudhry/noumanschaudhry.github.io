@@ -3,7 +3,7 @@ layout: default
 title: Welcome to My Portfolio
 ---
 
-![Your Name](assets/frame_00_delay-0.08s.jpg.jpg)
+![Your Name](assets/frame_00_delay-0.08s.jpg)
 
 # Welcome! 👋  
 
@@ -75,6 +75,33 @@ Currently, I work at **The Open University**, developing machine learning method
 
 ### **Speech-Based Learning Solution for Autistic Children**  
 - Created **iSMILE**, a speech-recognition-based learning tool in collaboration with **PictureAutism NGO**.  
+
+---
+## Publications
+
+### 1. [Deep Learning for Breast Cancer Risk Prediction: Application to a Large Representative UK Screening Cohort](https://pubmed.ncbi.nlm.nih.gov/38775671/)
+- **Authors**: Sam Ellis, Sandra Gomes, Matthew Trumble, Mark D. Halling-Brown, Kenneth C. Young, Nouman S. Chaudhry, Peter Harris, Lucy M. Warren
+- **Journal**: Radiology: Artificial Intelligence
+- **Year**: 2024
+- **Link**: [https://pubmed.ncbi.nlm.nih.gov/38775671/](https://pubmed.ncbi.nlm.nih.gov/38775671/)
+
+### 2. [Artificial Intelligence-Assisted Loop Mediated Isothermal Amplification (AI-LAMP) for Rapid Detection of SARS-CoV-2](https://doi.org/10.3390/v12090972)
+- **Authors**: Mohammed A. Rohaim, Emily Clayton, Ibrahim Sahin, Julianne Vilela, Manar E. Khalifa, Mohammed Q. Al-Natour, Nouman S. Chaudhry, et al.
+- **Journal**: Viruses
+- **Year**: 2020
+- **Link**: [https://doi.org/10.3390/v12090972](https://doi.org/10.3390/v12090972)
+
+### 3. [An Artificial Intelligence-Assisted Portable Low-Cost Device for the Rapid Detection of SARS-CoV-2](https://doi.org/10.3390/electronics10172065)
+- **Authors**: Mukunthan Tharmakulasingam, Nouman S. Chaudhry, Manoharanehru Branavan, Wamadeva Balachandran, Aurore C. Poirier, Mohammed A. Rohaim, Muhammad Munir, Roberto M. La Ragione, Anil Fernando
+- **Journal**: Electronics
+- **Year**: 2021
+- **Link**: [https://doi.org/10.3390/electronics10172065](https://doi.org/10.3390/electronics10172065)
+
+### 4. [VIDIIA Hunter: A Low-Cost, Smartphone Connected, Artificial Intelligence-Assisted COVID-19 Rapid Diagnostic Platform Approved for Medical Use in the UK](https://doi.org/10.3389/fmolb.2023.1144001)
+- **Authors**: Aurore C. Poirier, Ruben D. Riaño Moreno, Lwazi Takaindisa, James Carpenter, Jatinder W. Mehat, Nouman S. Chaudhry, et al.
+- **Journal**: Frontiers in Molecular Biosciences
+- **Year**: 2023
+- **Link**: [https://doi.org/10.3389/fmolb.2023.1144001](https://doi.org/10.3389/fmolb.2023.1144001)
 
 ---
 
