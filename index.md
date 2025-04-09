@@ -3,6 +3,8 @@ layout: default
 title: Welcome to My Portfolio
 ---
 
+![Your Name](assets/frame_00_delay-0.08s.jpg.jpg)
+
 # Welcome! 👋  
 
 Hi, I'm **Nouman S. Chaudhry**, a Data Scientist with experience across education, healthcare, and research sectors. I specialize in **machine learning, deep learning, and MLOps**, leveraging AI to solve real-world problems.  
